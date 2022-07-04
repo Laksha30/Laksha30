@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey buddy! How's it going?! 👋
 
 <!--
 **Laksha30/Laksha30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can connect with me on <a scr="https://www.linkedin.com/in/laksha-sekar-135ba21b5/">LinkedIn</a>

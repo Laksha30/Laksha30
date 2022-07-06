@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/laksha-sekar-135ba21b5/)
+I am doing good! 
+- Currently working as 
+    - Technical Manager at [CYSCOM VIT](https://cyscomvit.com/)
+    - Project Lead of [Malar](https://www.enactusvitc.org/malar#top) at [Enactus VITC](https://www.enactusvitc.org/)
+- Current working project: [Hacking Tools](https://github.com/Laksha30/Hacking_tools)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/laksha-sekar-135ba21b5/)

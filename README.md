@@ -18,5 +18,8 @@ I am doing good!
 - Currently working as 
     - Technical Manager at [CYSCOM VIT](https://cyscomvit.com/)
     - Project Lead of [Malar](https://www.enactusvitc.org/malar#top) at [Enactus VITC](https://www.enactusvitc.org/)
+- My blogs:
+    - [PASSWORD CRACKING WITH HYDRA — PART 1](https://medium.cyscomvit.com/password-cracking-with-hydra-part-1-1bcb0f0db8b6?source=your_stories_page-------------------------------------)
+    - [PASSWORD CRACKING WITH HYDRA — PART 2](https://medium.cyscomvit.com/password-cracking-with-hydra-part-2-f37c21e29f12?source=your_stories_page-------------------------------------)
 - Current working project: [Hacking Tools](https://github.com/Laksha30/Hacking_tools)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/laksha-sekar-135ba21b5/)

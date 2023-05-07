@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 I am doing good! 
 - Currently working as 
     - Chapter Manager (Vice-President) at [CYSCOM VIT](https://cyscomvit.com/)
-    - Project Lead of [Malar](https://www.enactusvitc.org/malar#top) at [Enactus VITC](https://www.enactusvitc.org/)
+    - Advisory Member at [Enactus VITC](https://www.enactusvitc.org/)
+    - Ex-Project Lead of Project [Malar](https://www.enactusvitc.org/malar#top) at [Enactus VITC](https://www.enactusvitc.org/)
 - Notable blogs:
     - [PASSWORD CRACKING WITH HYDRA — PART 1](https://medium.cyscomvit.com/password-cracking-with-hydra-part-1-1bcb0f0db8b6?source=your_stories_page-------------------------------------)
     - [PASSWORD CRACKING WITH HYDRA — PART 2](https://medium.cyscomvit.com/password-cracking-with-hydra-part-2-f37c21e29f12?source=your_stories_page-------------------------------------)

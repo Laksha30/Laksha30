@@ -18,6 +18,8 @@ I am doing good!
 - Currently working as 
     - Chapter Manager (Vice-President) at [CYSCOM VIT](https://cyscomvit.com/)
     - Advisory Member at [Enactus VITC](https://www.enactusvitc.org/)
+    - Application Development Intern at [Razorpay](https://razorpay.com/)
+- Previous positions
     - Ex-Technical Manager at [CYSCOM VIT](https://cyscomvit.com/)
     - Ex-Project Lead of Project [Malar](https://www.enactusvitc.org/malar#top) at [Enactus VITC](https://www.enactusvitc.org/)
 - Notable blogs:
